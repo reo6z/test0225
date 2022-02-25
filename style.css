@@ -18,7 +18,7 @@ iframe{ display: flex; width: 100%; }
   background-color: #9e9eff;
 }
 .banner1 {
-  background-image: url("images/index_04.jpg");
+  background-image: url("index_04.jpg");
   min-height: 760px;
   background-attachment: fixed;
   background-position: center;
@@ -26,7 +26,7 @@ iframe{ display: flex; width: 100%; }
   background-size: cover;
 }
 .banner2 {
-  background-image: url("images/index_06.jpg");
+  background-image: url("index_06.jpg");
   min-height: 730px;
   background-attachment: fixed;
   background-position: center;
