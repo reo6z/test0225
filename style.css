@@ -1,7 +1,6 @@
 body {
   height: 100%;
 }
-.container{ width: 100%;}
 
 section {
   width: 100%;
@@ -9,8 +8,15 @@ section {
   align-items: center;
   justify-content: center;
 }
-section img{ width: 100%;}
-iframe{ display: flex; width: 100%; }
+
+section img{
+  width: 100%;
+}
+
+iframe{
+  display: flex; width: 100%;
+}
+
 .section1 {
   background-color: #6767ff;
 }
@@ -19,7 +25,7 @@ iframe{ display: flex; width: 100%; }
 }
 .banner1 {
   background-image: url("images/index_04.jpg");
-  min-height: 760px;
+  min-height: 500px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -27,7 +33,7 @@ iframe{ display: flex; width: 100%; }
 }
 .banner2 {
   background-image: url("images/index_06.jpg");
-  min-height: 730px;
+  min-height: 500px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
