@@ -25,7 +25,7 @@ iframe{
 }
 .banner1 {
   background-image: url("images/index_04.jpg");
-  min-height: 500px;
+  min-height: 700px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ iframe{
 }
 .banner2 {
   background-image: url("images/index_06.jpg");
-  min-height: 500px;
+  min-height: 700px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
