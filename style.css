@@ -39,3 +39,14 @@ iframe{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.mobile { display: none; }
+
+/*-------------------mobile----------------------*/
+@media only screen and (max-width:768px) {
+
+  .mobile { display: block; width: 100%; }
+  .mobile img{ width: 100%; } 
+  .pc{ display: none; }
+
+}
